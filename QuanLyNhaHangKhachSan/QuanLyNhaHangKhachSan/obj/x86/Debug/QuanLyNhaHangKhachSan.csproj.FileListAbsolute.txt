@@ -1,0 +1,8 @@
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\bin\Debug\QuanLyNhaHangKhachSan.exe
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\bin\Debug\QuanLyNhaHangKhachSan.pdb
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.csprojResolveAssemblyReference.cache
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.FrmMain.resources
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.Properties.Resources.resources
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.csproj.GenerateResource.Cache
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.exe
+D:\NhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\QuanLyNhaHangKhachSan\obj\x86\Debug\QuanLyNhaHangKhachSan.pdb
